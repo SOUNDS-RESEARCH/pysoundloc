@@ -1,0 +1,4 @@
+.PHONY: 
+
+test:
+	@pytest tests/
