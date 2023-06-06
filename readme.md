@@ -1,5 +1,7 @@
 ## Pysoundloc: Sound source localization methods for Python
 
+![SRP](notebooks/srp.png "SRP localization")
+
 The goal of this repository is to store classical, sound source localization methods
 on Numpy/Pytorch, as well as helper functions for visualizing rooms and outputs.
 
